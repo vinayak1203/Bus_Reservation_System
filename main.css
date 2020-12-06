@@ -1,0 +1,41 @@
+html{
+    height: 100%;
+    width: 100%;
+    background: #d7e3fc;
+}
+
+body{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    background: #d7e3fc;
+    margin-left: 125px;
+    padding: 2rem ;
+
+}
+
+input{
+    background: #e2eafc;
+    color: #83a6f8;
+    outline: none;
+
+}
+
+.bordernone{
+    border: none;
+    color: #83a6f8;
+}
+
+.btn123{
+    margin: 0;
+    padding: 0.75rem 1.5rem;
+    background: #d7e3fc;
+    border: 1px solid black;
+    border-radius: 7px;
+    margin: 0.25rem 0;
+}
+
+.larger{
+    font-size: 3rem;
+    color: #83a6f8;
+}
